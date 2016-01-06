@@ -47,5 +47,5 @@ $ go test -tags integration -v
 --- PASS: TestVDIRun (9.99s)
 PASS
 coverage: 88.6% of statements
-ok  github.internal.digitalocean.com/vaibhav/picard 10.002s
+ok  github.com/neurodrone/picard 10.002s
 ```
